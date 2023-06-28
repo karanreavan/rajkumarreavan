@@ -1,0 +1,26 @@
+.container{
+    background-color: #253848;
+    display: flex;
+    width:100vw;
+    padding:20px;
+}
+.left-container{
+    background-color: #a3cfcc;
+    width: 60%;
+height: 88vh;
+}
+.right-container{
+    background-color:#f7cfb6 ;
+    justify-content: space-around;
+    align-items:flex-end;
+    display: flex;
+    
+    width:60%;
+ height:80px;
+
+}
+.child-element{
+    background-color: #86c2de;
+    width: 40%;
+    height: 80px;
+}

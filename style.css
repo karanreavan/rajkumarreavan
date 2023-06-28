@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.guru{
+    background-image: url(/image.png);
+    width: 100vw;
+    min-height: 130vh;
+    background-size: 100% 100%;
+    background-position:center ;
+}
+.header{
+    display: flex;
+    color: white;
+    align-items:center;
+    justify-content:space-between;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.child-elemant{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-link-text{
+    margin-right: 10px;
+}
+.guru-main{
+    color: aliceblue;
+    display:flex;
+justify-content: center;
+align-items:center;
+font-size: 25px;
+height: 100%;
+flex-direction: column;
+}
+.mayer{
+    max-width: 500px;
+}
+.pawer{
+    font-size: smaller;
+}
+.pawer{
+    font-size:20px;
+}
+.min{
+    color: brown;
+width: 100%; 
+max-width: 500px;
+
+
+}
+.su{
+    display:flex ;
+    justify-content: start;
+    align-items: center;
+    color: aliceblue;
+}
+.yas{
+    justify-content: end;
+align-items:center ;
+    color:aliceblue;
+}
